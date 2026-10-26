@@ -1,5 +1,5 @@
 
-//1.Criar uma matriz 2×2 com valores definidos no código e exibi-la em formato de tabela.
+//1.Criar uma matriz 2Ã—2 com valores definidos no cÃ³digo e exibi-la em formato de tabela.
 #include <stdio.h>
 #include <stdlib.h>
 
