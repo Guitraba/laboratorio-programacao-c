@@ -1,5 +1,6 @@
-# Aula 14
+Aula 14
 Exercício de fixação:
+
 1.Criar uma matriz 2×2 com valores definidos no código e
 exibi-la em formato de tabela.
 #include <stdio.h>
@@ -18,8 +19,10 @@ printf("\n");
 }
 return 0;
 }
+
 2.Ler quatro valores digitados pelo usuário, armazená-los em
 uma matriz 2×2 e exibir a matriz.
+
 #include <stdio.h>
 #include <stdlib.h>
 int main()
@@ -41,8 +44,10 @@ printf("\n");
 }
 return 0;
 }
+
 3. Criar uma matriz 3×3, somar todos os seus elementos e
 apresentar o resultado.
+
 #include <stdio.h>
 #include <stdlib.h>
 int main()
@@ -63,6 +68,7 @@ printf("\n");
 printf("%d", soma);
 return 0;
 }
+
 5.2 Questão – Aplicação de Matrizes em C: Reserva de
 Assentos no Cinema Um cinema possui 5 fileiras, com 8
 assentos em cada uma. Para controlar as reservas, o sistema
@@ -72,6 +78,7 @@ utiliza uma matriz, na qual:
 Considerando essa situação, qual alternativa apresenta corretamente a
 declaração da matriz em C e a forma de acessar o terceiro assento da
 segunda fileira?
+
 a) ( ) int assentos[8][5]; e assentos[2][3]
 b) ( ) int assentos[5][8]; e assentos[2][3]
 c) (X) int assentos[5][8]; e assentos[1][2]
